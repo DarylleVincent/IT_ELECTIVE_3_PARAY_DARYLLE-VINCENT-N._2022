@@ -1,0 +1,38 @@
+
+
+body {
+	background-image: url(light.jpg);ck
+	background-repeat: no-repeat;
+	position: center;
+}
+
+h1 {
+	color: antiquewhite;
+	font-style: oblique;
+
+}
+
+h2 {
+	color: antiquewhite;
+	font-style: oblique;
+}
+
+h3 {
+	color: antiquewhite;
+	font-style: oblique;
+}
+
+div li {
+	color: black;
+	list-style-type: circle;
+	background-color: floralwhite;
+	padding: 15px;
+}
+
+
+
+p {
+	color: black;
+	font-style: oblique;
+}
+
